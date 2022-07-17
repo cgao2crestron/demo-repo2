@@ -2,6 +2,7 @@
 
 Some text
 
+some more text in the master branch
 
 # subheader
 
@@ -12,3 +13,4 @@ watch youtube tutorial
 1. step index.html
 2. some new changes ..
 3. how to use diff ...
+44. whose line to be added merged??
